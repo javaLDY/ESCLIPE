@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book id="1">
+		<code>001</code>
+		<name>一万个为什么</name>
+		<price>10000</price>
+	</book>
+	<book id="2">
+		<code>002</code>
+		<name>一万个不为什么</name>
+		<price>1000</price>
+	</book>
+</bookstore>

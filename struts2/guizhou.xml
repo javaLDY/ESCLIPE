@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>贵州省</name>
+	
+		<scene type="public" name="main.jsp" description="内部应用大部分页面的公用头部与左侧">
+			<type>leftNav</type>
+			<name>左侧导航条</name>
+			<description>设置左侧导航条伸缩方式。1：默认方式，点击展开，2：低分辨率方式，移入首页Icon展开，3：不显示</description>
+			<value>1</value>
+		</scene>
+		<scene type="search" name="search/search.jsp" description="内部应用大部分页面的公用头部与左侧">
+			<type>leftNav</type>
+			<name>左侧导航条</name>
+			<description>设置左侧导航条伸缩方式。1：默认方式，点击展开，2：低分辨率方式，移入首页Icon展开，3：不显示</description>
+			<value>2</value>
+		</scene>
+</root>
